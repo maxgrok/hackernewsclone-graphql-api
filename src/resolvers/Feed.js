@@ -3,5 +3,5 @@ function links(parent, args, context, info){
 }
 
 module.exports = {
-	links,
+	links
 }
